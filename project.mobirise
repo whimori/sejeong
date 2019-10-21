@@ -727,8 +727,8 @@
             "slides__showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1214.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-3786-2000x1500.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -746,7 +746,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/mbr-1920x1440.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
